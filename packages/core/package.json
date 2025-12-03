@@ -1,6 +1,6 @@
 {
   "name": "@bw-ui/datatable",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Production-ready data table with plugin architecture. Zero dependencies.",
   "type": "module",
   "main": "dist/bw-datatable.min.js",
@@ -36,13 +36,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bw-ui/datatable.git",
-    "directory": "packages/core"
+    "url": "https://github.com/bw-ui/bw-datatable"
   },
-  "homepage": "https://bw-ui.dev/datatable",
   "bugs": {
-    "url": "https://github.com/bw-ui/datatable/issues"
+    "url": "https://github.com/bw-ui/bw-datatable/issues"
   },
+  "homepage": "https://bw-ui.github.io/bw-datatable/",
   "devDependencies": {
     "esbuild": "^0.20.2"
   }

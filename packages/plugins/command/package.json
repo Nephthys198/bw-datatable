@@ -1,6 +1,6 @@
 {
   "name": "@bw-ui/datatable-command",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command palette plugin for @bw-ui/datatable - Cmd+K quick actions",
   "type": "module",
   "main": "dist/command.min.js",
@@ -34,9 +34,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bw-ui/bw-datatable.git",
-    "directory": "packages/plugins/command"
+    "url": "https://github.com/bw-ui/bw-datatable"
   },
+  "bugs": {
+    "url": "https://github.com/bw-ui/bw-datatable/issues"
+  },
+  "homepage": "https://bw-ui.github.io/bw-datatable/",
   "peerDependencies": {
     "@bw-ui/datatable": "^1.0.0"
   },

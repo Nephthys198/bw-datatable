@@ -1,6 +1,6 @@
 {
   "name": "@bw-ui/datatable-clipboard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Copy/Paste plugin for @bw-ui/datatable - Excel compatible",
   "type": "module",
   "main": "dist/clipboard.min.js",
@@ -33,9 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bw-ui/datatable.git",
-    "directory": "packages/plugins/clipboard"
+    "url": "https://github.com/bw-ui/bw-datatable"
   },
+  "bugs": {
+    "url": "https://github.com/bw-ui/bw-datatable/issues"
+  },
+  "homepage": "https://bw-ui.github.io/bw-datatable/",
   "peerDependencies": {
     "@bw-ui/datatable": "^1.0.0"
   },
